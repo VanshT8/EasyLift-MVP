@@ -17,6 +17,5 @@ npm run dev
 
 Open http://localhost:3000.
 
-## Deploy
-
-Import this repo into [Vercel](https://vercel.com/new) and click **Deploy**. No environment variables needed.
+## Deployment Link:
+https://easy-lift-mvp.vercel.app/
